@@ -1,0 +1,6 @@
+@SoftDesign.API_HostAddress = http://localhost:5201
+
+GET {{SoftDesign.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
